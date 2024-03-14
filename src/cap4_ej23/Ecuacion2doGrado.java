@@ -1,4 +1,3 @@
-
 package cap4_ej23;
 
 public class Ecuacion2doGrado {
