@@ -1,11 +1,9 @@
 package cap4_ej23;
 
 public class Ecuacion2doGrado {
-    double A;
-    double B;
-    double C;
-    double d;
-    double x1,x2;
+    double A,B,C;
+    double d; //Discriminante
+    double x1,x2; //Soluciones de la ecuación
     
     protected void SolucionEc(){
         d = Math.pow(B,2) - 4 * A * C;
