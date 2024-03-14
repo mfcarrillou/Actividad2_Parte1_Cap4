@@ -19,5 +19,5 @@ public class Actividad2_Ej12 {
         
         System.out.println("\nEl trabajador " + empleado.NOM + " devengó: $ "+ empleado.Salario()); 
     }
-    
+
 }
