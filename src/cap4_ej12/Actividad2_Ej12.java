@@ -17,8 +17,7 @@ public class Actividad2_Ej12 {
         System.out.println("Ingrese el valor por hora de trabajo: ");
         empleado.VHN = entrada.nextDouble();
         
-        System.out.println("\nEl trabajador " + empleado.NOM + " devengó: $ "+ empleado.Salario());
-        
+        System.out.println("\nEl trabajador " + empleado.NOM + " devengó: $ "+ empleado.Salario()); 
     }
     
 }
